@@ -1,0 +1,1 @@
+// See previous response for full Swing implementation.
